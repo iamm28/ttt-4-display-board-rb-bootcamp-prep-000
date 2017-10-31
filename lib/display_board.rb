@@ -9,5 +9,5 @@ def display_board(board)
   puts row1, line1, row2, line2, row3
 end
 
-board = {' ',' ',' ',' ',' ',' ',' ',' ',' '}
+board = [' ',' ',' ',' ',' ',' ',' ',' ',' ']
 display_board(board)
