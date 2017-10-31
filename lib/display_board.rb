@@ -7,6 +7,6 @@ def display_board(board)
   line2 = "-----------"
   row3 = " #{board[6]} | #{board[7]} | #{board[8]} "
   puts row1, line1, row2, line2, row3
-end 
+end
 
-board = 
+board = {' ',' ',' ',' ',' ',' ',' ',' ',' '}
